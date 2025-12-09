@@ -7,6 +7,6 @@ Follow the steps below to gwet your own banner:
 
 2) Paste the index.html file into your own folder of VS Code and save it.
 
-3) Edit the code according to your needs.
+3) Edit the code according to your needs and get the banner for yourself.
 
 4) Run the file in your browser and record the screen, converting it into a GIF to put on the GitHub ReadME :)
