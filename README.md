@@ -1,7 +1,7 @@
 This is a repository for a hyperspace gif for your GitHub ReadME.
 
 
-Follow the steps below to gwet your own banner:
+Follow the steps below to get your own banner:
 
 1) Fork this repository to get the code for yourself
 
